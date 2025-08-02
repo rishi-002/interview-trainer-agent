@@ -46,14 +46,19 @@ An intelligent AI-powered assistant built using IBM watsonx.ai that helps users 
 
 ## 📸 Screenshots
 
-Add screenshots of your IBM Agent setup here.
-
+### Setting up
 ![setting up](images/setup.jpg)
+### quickstart_questions
 ![quickstart_questions](images/quick_start_questions.jpg)
+### agent_instructions
 ![agent_instructions](images/agent_instructions.jpg)
+### tools used
 ![tools used](images/tools.jpg)
+### deployment & preview
 ![deployment & preview](images/deployed.jpg)
+### Api references
 ![Api references](images/links.jpg)
+### Resource List
 ![Resource List](images/resources.jpg)
 
 
