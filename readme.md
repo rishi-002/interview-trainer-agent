@@ -59,7 +59,7 @@ An intelligent AI-powered assistant built using IBM watsonx.ai that helps users 
 ### Api references
 ![Api references](images/links.jpg)
 ### Resource List
-![Resource List](images/resources.jpg)
+![Resource List](images/resources.png)
 
 
 ## 🤝 Contributing
