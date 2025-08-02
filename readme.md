@@ -48,13 +48,14 @@ An intelligent AI-powered assistant built using IBM watsonx.ai that helps users 
 
 Add screenshots of your IBM Agent setup here.
 
-🖼️ _You can upload images in a `screenshots/` folder and embed them._
-![links](images/links.jpg)
+![setting up](images/setup.jpg)
+![quickstart_questions](images/quick_start_questions.jpg)
 ![agent_instructions](images/agent_instructions.jpg)
-![quickstart_questions](images/quickstart_questions.jpg)
-![deployed](images/deployed.jpg)
-![tools](images/tools.jpg)
----
+![tools used](images/tools.jpg)
+![deployment & preview](images/deployed.jpg)
+![Api references](images/links.jpg)
+![Resource List](images/resources.jpg)
+
 
 ## 🤝 Contributing
 
